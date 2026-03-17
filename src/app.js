@@ -14,4 +14,4 @@ app.use("/api/interview",interviewRoutes)
 app.get("/", (req, res) => {
     res.send("AI Receptionist Backend is running")
 })
-export default app;
+export default app; 
